@@ -466,7 +466,7 @@ footer li {
 /* mobile phone */
 @media (max-width: 400px) {
   html {
-    font-size: 60%;
+    font-size: 40%;
   }
 
   .simply-countdown > .simply-section {
