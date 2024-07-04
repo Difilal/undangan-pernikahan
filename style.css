@@ -116,7 +116,7 @@ body {
 
 .home .couple h3 {
   font-family: 'Sacramento';
-  font-size: 2.4rem;
+  font-size: 2.7rem;
   color: #9babb7;
 }
 
@@ -466,7 +466,7 @@ footer li {
 /* mobile phone */
 @media (max-width: 400px) {
   html {
-    font-size: 40%;
+    font-size: 60%;
   }
 
   .simply-countdown > .simply-section {
